@@ -1,0 +1,331 @@
+<debuffs>
+	<debuff>
+		<type>Class</type>
+		<holder>Devoted Cleric</holder>
+		<name>HP Set</name>
+		<value>130</value>
+		<category>def2</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Devoted Cleric</holder>
+		<name>Divine Glow</name>
+		<value>117.5</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Devoted Cleric</holder>
+		<name>Prophecy of Doom</name>
+		<value>112.5</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Devoted Cleric</holder>
+		<name>Prophecy of Doom - Empowered</name>
+		<value>127.5</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Devoted Cleric</holder>
+		<name>Condemning Gaze</name>
+		<value>115</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Control Wizard</holder>
+		<name>Combustive Action</name>
+		<value>124</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Control Wizard</holder>
+		<name>Ray of Enfeeblement</name>
+		<value>117.5</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Control Wizard</holder>
+		<name>Ray of Enfeeblement - Mastery</name>
+		<value>135</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Control Wizard</holder>
+		<name>Swath of Destruction</name>
+		<value>120</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Control Wizard</holder>
+		<name>Bitter Cold</name>
+		<value>105</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Control Wizard</holder>
+		<name>Frigid Winds</name>
+		<value>110</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Guardian Fighter</holder>
+		<name>Mark</name>
+		<value>108</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Guardian Fighter</holder>
+		<name>Enhanced Mark - Artifact Class Feature</name>
+		<value>105</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Guardian Fighter</holder>
+		<name>Overwhelming Impact</name>
+		<value>105</value>
+		<category>def1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Guardian Fighter</holder>
+		<name>Crushing Pin</name>
+		<value>110</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Oathbound Paladin</holder>
+		<name>Bane</name>
+		<value>130</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Oathbound Paladin</holder>
+		<name>Stem the Tide</name>
+		<value>105</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Great Weapon Fighter</holder>
+		<name>Mark</name>
+		<value>108</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Hunter Ranger</holder>
+		<name>Thorn Ward</name>
+		<value>120</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Hunter Ranger</holder>
+		<name>Commanding Shot</name>
+		<value>115</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Trickster Rogue</holder>
+		<name>Sly Flourish</name>
+		<value>119</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Trickster Rogue</holder>
+		<name>Wicked Reminder</name>
+		<value>121</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Scourge Warlock</holder>
+		<name>Dreadtheft</name>
+		<value>125</value>
+		<category>mult</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Scourge Warlock</holder>
+		<name>Hodor's Grasp</name>
+		<value>115</value>
+		<category>def1</category>
+	</debuff>
+	<debuff>
+		<type>Class</type>
+		<holder>Scourge Warlock</holder>
+		<name>Infernal Wrath</name>
+		<value>105</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Enchantment</type>
+		<holder>Enchantment</holder>
+		<name>Plague Fire - Pure</name>
+		<value>105</value>
+		<category>def2</category>
+	</debuff>
+	<debuff>
+		<type>Enchantment</type>
+		<holder>Enchantment</holder>
+		<name>Plague Fire - Trans</name>
+		<value>102</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Enchantment</type>
+		<holder>Enchantment</holder>
+		<name>Dread - Pure</name>
+		<value>104</value>
+		<category>dread</category>
+	</debuff>
+	<debuff>
+		<type>Enchantment</type>
+		<holder>Enchantment</holder>
+		<name>Dread - Trans</name>
+		<value>104</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Enchantment</type>
+		<holder>Enchantment</holder>
+		<name>Terror</name>
+		<value>104</value>
+		<category>dr2</category>
+	</debuff>
+	<debuff>
+		<type>Enchantment</type>
+		<holder>Enchantment</holder>
+		<name>Frost - Pure</name>
+		<value>107</value>
+		<category>def1</category>
+	</debuff>
+	<debuff>
+		<type>Enchantment</type>
+		<holder>Enchantment</holder>
+		<name>Frost - Trans</name>
+		<value>102</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Enchantment</type>
+		<holder>Enchantment</holder>
+		<name>Bronzewood</name>
+		<value>105</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Artifact</type>
+		<holder>Artifact</holder>
+		<name>Heart of the Black Dragon</name>
+		<value>115</value>
+		<category>def2</category>
+	</debuff>
+	<debuff>
+		<type>Artifact</type>
+		<holder>Artifact</holder>
+		<name>Lantern of Revelation - pre-mod 4</name>
+		<value>110</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Artifact</type>
+		<holder>Artifact</holder>
+		<name>Lantern of Revelation - post-mod 4</name>
+		<value>108</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Artifact</type>
+		<holder>Artifact</holder>
+		<name>Vanguard's Banner</name>
+		<value>108</value>
+		<category>def2</category>
+	</debuff>
+	<debuff>
+		<type>Companion</type>
+		<holder>Companion</holder>
+		<name>Sellsword</name>
+		<value>110</value>
+		<category>def1</category>
+	</debuff>
+	<debuff>
+		<type>Companion</type>
+		<holder>Companion</holder>
+		<name>Con Artist</name>
+		<value>110</value>
+		<category>def1</category>
+	</debuff>
+	<debuff>
+		<type>Companion</type>
+		<holder>Companion</holder>
+		<name>Rebel Mercenary</name>
+		<value>110</value>
+		<category>def1</category>
+	</debuff>
+	<debuff>
+		<type>Companion</type>
+		<holder>Companion</holder>
+		<name>Rust Monster</name>
+		<value>105</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Companion</type>
+		<holder>Companion</holder>
+		<name>Greenscale Bowman</name>
+		<value>105</value>
+		<category>def2</category>
+	</debuff>
+	<debuff>
+		<type>Companion</type>
+		<holder>Companion</holder>
+		<name>Harper Bard</name>
+		<value>108</value>
+		<category>def1</category>
+	</debuff>
+	<debuff>
+		<type>Companion</type>
+		<holder>Companion</holder>
+		<name>Dancing Shield</name>
+		<value>120</value>
+		<category>def1</category>
+	</debuff>
+	<debuff>
+		<type>Companion</type>
+		<holder>Companion</holder>
+		<name>War Boar</name>
+		<value>108</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Racial</type>
+		<holder>Racial</holder>
+		<name>Dark Fire</name>
+		<value>105</value>
+		<category>dr1</category>
+	</debuff>
+	<debuff>
+		<type>Racial</type>
+		<holder>Racial</holder>
+		<name>Faerie Fire</name>
+		<value>105</value>
+		<category>dr1</category>
+	</debuff>	
+</debuffs>
